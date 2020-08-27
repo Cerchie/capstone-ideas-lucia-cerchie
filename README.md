@@ -10,13 +10,13 @@ _Rover page_ includes more information about the rover, and allows the user to s
 _Results page_ which shows 25 pictures the rover has taken. 
 Each page will have a homepage button. 
 
-# 2. [Mars Weather App](https://mars.nasa.gov/insight/weather/) :umbrella:
+## 2. [Mars Weather App](https://mars.nasa.gov/insight/weather/) :umbrella:
 _Homepage_ explains where and how the information is collected. Includes a search button to allow the user to search weather by Earth date. A successful search bring the user to a 
 
 _Results page_ which displays the current atmospheric pressure, high and low temps, and wind on Mars for the searched date.
 Each page will have a homepage button. 
 
-# 3. [Asteroid Approach Lookup](https://github.com/SpaceRocks/)  :telescope:
+## 3. [Asteroid Approach Lookup](https://github.com/SpaceRocks/)  :telescope:
 _Homepage_ explains where and how the information is collected. Includes a search button to allow the user to search for asteroids by Earth date. A successful search bring the user to a 
 
 _Results page_ which displays the asteroid info. 
